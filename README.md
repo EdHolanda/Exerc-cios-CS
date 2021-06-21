@@ -1,2 +1,2 @@
-# Exerc-cios-CS
+# Exercicios-CS
 Exercícios da Mentoria de C#
